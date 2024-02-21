@@ -24,6 +24,21 @@ The application utilizes a preprocessed file generated for machine learning purp
 - Most Frequently Occurring Emoji
 - Pie Chart for Most Frequently Occurring Emoji
 
+## Usage
+1. Manually export the WhatsApp chat you want to analyze.
+2. Ensure you have the preprocessed file available.
+3. Run the application by executing the main script.
+4. Select the exported WhatsApp group or individual chat file.
+5. Explore the generated statistics and visualizations.
+
+## Exporting WhatsApp Chats
+To export a WhatsApp chat:
+- Open the chat in WhatsApp.
+- Tap the three dots in the top-right corner.
+- Select "More" and choose "Export chat."
+- Choose whether to include media files.
+- Share the exported chat file to your device or cloud storage.
+
 ## Technologies Used
 - Python
 - Pandas
